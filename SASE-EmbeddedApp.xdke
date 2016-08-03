@@ -7,5 +7,95 @@
   },
   "editorTab": {
     "currentEditorMode": 0
+  },
+  "iot-tab": {
+    "fileStatus": {
+      ".gitignore": {
+        "previousModTime": 1470102722391,
+        "modified": 1470102722391,
+        "seen": true,
+        "name": ".gitignore"
+      },
+      "controller.js": {
+        "previousModTime": 1470257489731,
+        "modified": 1470257489731,
+        "seen": true,
+        "name": "controller.js"
+      },
+      "main.js": {
+        "previousModTime": 1470257577537,
+        "modified": 1470257577537,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1470102791368,
+        "modified": 1470102791368,
+        "seen": true,
+        "name": "package.json"
+      },
+      "SASE-EmbeddedApp.xdk": {
+        "previousModTime": 1469989503600,
+        "modified": 1469989503600,
+        "seen": true,
+        "name": "SASE-EmbeddedApp.xdk"
+      },
+      "SASE-EmbeddedApp.xdke": {
+        "previousModTime": 1470257501518,
+        "modified": 1470257501518,
+        "seen": true,
+        "name": "SASE-EmbeddedApp.xdke"
+      },
+      ".nodered/.config.json": {
+        "previousModTime": 1469989757738,
+        "modified": 1469989757738,
+        "seen": true,
+        "name": ".nodered/.config.json"
+      },
+      ".nodered/.flows.json.backup": {
+        "previousModTime": 1470017404213,
+        "modified": 1470017404213,
+        "seen": true,
+        "name": ".nodered/.flows.json.backup"
+      },
+      ".nodered/.flows_cred.json.backup": {
+        "previousModTime": 1470000499202,
+        "modified": 1470000499202,
+        "seen": true,
+        "name": ".nodered/.flows_cred.json.backup"
+      },
+      ".nodered/flows.json": {
+        "previousModTime": 1470082062248,
+        "modified": 1470082062248,
+        "seen": true,
+        "name": ".nodered/flows.json"
+      },
+      ".nodered/flows_cred.json": {
+        "previousModTime": 1470015338754,
+        "modified": 1470015338754,
+        "seen": true,
+        "name": ".nodered/flows_cred.json"
+      }
+    },
+    "boardFileStatus": {
+      "controller.js": {
+        "name": "controller.js",
+        "modified": 1470257500000,
+        "previousModTime": 1470257500000,
+        "seen": true
+      },
+      "main.js": {
+        "name": "main.js",
+        "modified": 1470257370000,
+        "previousModTime": 1470257585537,
+        "seen": true
+      },
+      "package.json": {
+        "name": "package.json",
+        "modified": 1470177636000,
+        "previousModTime": 1470177636000,
+        "seen": true
+      }
+    }
   }
 }
