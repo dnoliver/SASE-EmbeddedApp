@@ -71,11 +71,11 @@ var settings = {
     flowFile: "flows.json",
     functionGlobalContext: {
         Controller: controller,
-        UpmBuzzer: require('jsupm_buzzer')
+        require: require
     }
 };
 
-// Initialise the runtime with a server and settings
+// Initialize the runtime with a server and settings
 RED.init(server, settings);
 
 // Serve the editor UI from /red

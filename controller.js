@@ -7,12 +7,12 @@ var dns = require('dns');
  */
 function Controller() {
     this.props = {};
-    // _id
-    this.set('_id', '1234');
     // app/timestamp
     this.set('app/timestamp', Date.now());
     // app/host
     var networkInterfaces = os.networkInterfaces();
+    // harcoded wlan0 interface
+    this.set('_id', networkInterfaces['wlan0'][0].mac);
     // harcoded wlan0 interface
     this.set('app/host', networkInterfaces['wlan0'][0].address);
     /**

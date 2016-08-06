@@ -17,20 +17,20 @@
         "name": ".gitignore"
       },
       "controller.js": {
-        "previousModTime": 1470257489731,
-        "modified": 1470257489731,
+        "previousModTime": 1470267326942,
+        "modified": 1470267326942,
         "seen": true,
         "name": "controller.js"
       },
       "main.js": {
-        "previousModTime": 1470257577537,
-        "modified": 1470257577537,
+        "previousModTime": 1470356996558,
+        "modified": 1470356996558,
         "seen": true,
         "name": "main.js"
       },
       "package.json": {
-        "previousModTime": 1470102791368,
-        "modified": 1470102791368,
+        "previousModTime": 1470267273485,
+        "modified": 1470267273485,
         "seen": true,
         "name": "package.json"
       },
@@ -41,8 +41,8 @@
         "name": "SASE-EmbeddedApp.xdk"
       },
       "SASE-EmbeddedApp.xdke": {
-        "previousModTime": 1470257501518,
-        "modified": 1470257501518,
+        "previousModTime": 1470425251644,
+        "modified": 1470425251644,
         "seen": true,
         "name": "SASE-EmbeddedApp.xdke"
       },
@@ -80,20 +80,20 @@
     "boardFileStatus": {
       "controller.js": {
         "name": "controller.js",
-        "modified": 1470257500000,
-        "previousModTime": 1470257500000,
+        "modified": 1470267329000,
+        "previousModTime": 1470267329000,
         "seen": true
       },
       "main.js": {
         "name": "main.js",
-        "modified": 1470257370000,
-        "previousModTime": 1470257585537,
+        "modified": 1470424932000,
+        "previousModTime": 1470424932000,
         "seen": true
       },
       "package.json": {
         "name": "package.json",
-        "modified": 1470177636000,
-        "previousModTime": 1470177636000,
+        "modified": 1470267329000,
+        "previousModTime": 1470267329000,
         "seen": true
       }
     }
