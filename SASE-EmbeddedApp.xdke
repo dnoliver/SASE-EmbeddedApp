@@ -10,29 +10,29 @@
   },
   "iot-tab": {
     "fileStatus": {
+      "controller.js": {
+        "previousModTime": 1470791026877,
+        "modified": 1470791026877,
+        "seen": true,
+        "name": "controller.js"
+      },
+      "main.js": {
+        "previousModTime": 1470791027009,
+        "modified": 1470791027009,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1470791027179,
+        "modified": 1470791027179,
+        "seen": true,
+        "name": "package.json"
+      },
       ".gitignore": {
         "previousModTime": 1470102722391,
         "modified": 1470102722391,
         "seen": true,
         "name": ".gitignore"
-      },
-      "controller.js": {
-        "previousModTime": 1470267326942,
-        "modified": 1470267326942,
-        "seen": true,
-        "name": "controller.js"
-      },
-      "main.js": {
-        "previousModTime": 1470356996558,
-        "modified": 1470356996558,
-        "seen": true,
-        "name": "main.js"
-      },
-      "package.json": {
-        "previousModTime": 1470267273485,
-        "modified": 1470267273485,
-        "seen": true,
-        "name": "package.json"
       },
       "SASE-EmbeddedApp.xdk": {
         "previousModTime": 1469989503600,
@@ -41,60 +41,78 @@
         "name": "SASE-EmbeddedApp.xdk"
       },
       "SASE-EmbeddedApp.xdke": {
-        "previousModTime": 1470425251644,
-        "modified": 1470425251644,
+        "previousModTime": 1470794035083,
+        "modified": 1470794035083,
         "seen": true,
         "name": "SASE-EmbeddedApp.xdke"
       },
-      ".nodered/.config.json": {
-        "previousModTime": 1469989757738,
-        "modified": 1469989757738,
+      "node-red/flows.json": {
+        "previousModTime": 1470793353380,
+        "modified": 1470793353380,
         "seen": true,
-        "name": ".nodered/.config.json"
+        "name": "node-red/flows.json"
       },
-      ".nodered/.flows.json.backup": {
-        "previousModTime": 1470017404213,
-        "modified": 1470017404213,
+      "node-red/flows_cred.json": {
+        "previousModTime": 1470793399276,
+        "modified": 1470793399276,
         "seen": true,
-        "name": ".nodered/.flows.json.backup"
-      },
-      ".nodered/.flows_cred.json.backup": {
-        "previousModTime": 1470000499202,
-        "modified": 1470000499202,
-        "seen": true,
-        "name": ".nodered/.flows_cred.json.backup"
-      },
-      ".nodered/flows.json": {
-        "previousModTime": 1470082062248,
-        "modified": 1470082062248,
-        "seen": true,
-        "name": ".nodered/flows.json"
-      },
-      ".nodered/flows_cred.json": {
-        "previousModTime": 1470015338754,
-        "modified": 1470015338754,
-        "seen": true,
-        "name": ".nodered/flows_cred.json"
+        "name": "node-red/flows_cred.json"
       }
     },
     "boardFileStatus": {
       "controller.js": {
         "name": "controller.js",
         "modified": 1470267329000,
-        "previousModTime": 1470267329000,
+        "previousModTime": 1470794065570,
         "seen": true
       },
       "main.js": {
         "name": "main.js",
-        "modified": 1470424932000,
-        "previousModTime": 1470424932000,
+        "modified": 1470707436000,
+        "previousModTime": 1470794065570,
         "seen": true
       },
       "package.json": {
         "name": "package.json",
         "modified": 1470267329000,
-        "previousModTime": 1470267329000,
+        "previousModTime": 1470794065570,
         "seen": true
+      },
+      ".node-red/.config.json": {
+        "name": ".node-red/.config.json",
+        "modified": 1470707458842,
+        "previousModTime": 1470707458842,
+        "seen": true
+      },
+      ".node-red/.flows.json.backup": {
+        "name": ".node-red/.flows.json.backup",
+        "modified": 1470707662474,
+        "previousModTime": 1470707662474,
+        "seen": true
+      },
+      ".node-red/.flows_cred.json.backup": {
+        "name": ".node-red/.flows_cred.json.backup",
+        "modified": 1470707662464,
+        "previousModTime": 1470707662464,
+        "seen": true
+      },
+      ".node-red/flows.json": {
+        "name": ".node-red/flows.json",
+        "modified": 1470707726355,
+        "previousModTime": 1470707726355,
+        "seen": true
+      },
+      ".node-red/flows_cred.json": {
+        "name": ".node-red/flows_cred.json",
+        "modified": 1470707726355,
+        "previousModTime": 1470707726355,
+        "seen": true
+      },
+      "node-red/flows.json": {
+        "previousModTime": 1470794065570
+      },
+      "node-red/flows_cred.json": {
+        "previousModTime": 1470794065570
       }
     }
   }
